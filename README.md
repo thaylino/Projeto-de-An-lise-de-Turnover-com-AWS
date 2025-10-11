@@ -1,7 +1,7 @@
-📌 Descrição:
+# 📌 Descrição:
 Este projeto tem como objetivo analisar a taxa de turnover em uma empresa, utilizando serviços da AWS para armazenamento, processamento e visualização de dados.
 
-🚀 Arquitetura do Projeto
+## 🚀 Arquitetura do Projeto
 
 1️⃣ Upload de dados no Amazon S3
 - O time de RH envia arquivos (CSV/Excel) com informações de colaboradores.
